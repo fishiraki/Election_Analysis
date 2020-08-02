@@ -38,4 +38,7 @@ The analysis of the election show that:
   - Diane DeGette who received 73.8% of the vote and 272,892 votes.
  
  ## Election Audit Summary
- This script is useful in that it can analyze the 
+ This script is useful and could be applied to other cases in that it can analyze the:
+ - Voting demographics (additional criteria could be added)
+ - Use to check for unique votes and prevent fraud based on name or ID
+ - Look for opportunities to enourage community/demographic engagement based upon census results
